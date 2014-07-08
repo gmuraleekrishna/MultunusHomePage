@@ -1,0 +1,413 @@
+body {
+	margin: 0px;
+	font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica-', 'Arial', 'sans-serif';
+}
+.page{
+
+	border: 0px auto;
+	margin: 0px auto;
+	
+	
+}
+p{
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+a:link, a:visited {
+	color:white;
+}
+a:hover {
+	text-decoration: underline;
+}
+.logo {
+	
+	padding-left:15px;
+	padding-right:5px;
+
+
+}
+
+.logocontainer {
+	margin-left: 0px;
+	float:left;
+	background-color: rgb(189, 31, 58);
+	margin-right: 0px;
+	height:52px;
+	padding-top:10px;
+	padding-right:5px;
+	position:fixed;
+	z-index: 99;
+	
+}
+.menuheader{
+	
+}
+ul.menubar {
+ 	list-style-type: none;
+   	display: inline;
+   	color:white;
+
+}
+a {
+	text-decoration: none;
+	
+}
+li {
+	display: inline;
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align:left;
+
+
+}
+img.dividesymbol{
+	padding-top: 50px;
+}
+.menubar {
+	font-weight: lighter;
+	float:left;
+	z-index:98;
+	padding-left:210px; 
+	margin-top: 0px;
+	line-height: 60px;
+	
+	width: 1367px;
+	text-transform: uppercase;
+	position:fixed;
+	font-size: 13px;
+	background-color:  rgb(30, 30,30);
+	background-size: 800px 800px;
+    background-repeat: no-repeat;	
+    letter-spacing: 0.5px;
+    height:62px;
+}
+.explore-btn a:link, .menubar a:link, .explore-btn a:visited, .menubar a:visited {
+	color:white;
+}
+.menubar a:hover, .explore-btn a:hover {
+	color:#d22341;
+	text-decoration: none;
+}
+
+.redlink a:link ,.redlink a:visited,a:visited {
+	color:#d22341;
+}
+.readlink a:hover {
+	text-decoration: underline;
+
+}
+
+.overlay-text {
+	color:#FFFFFF;
+	text-align: center;
+	position:absolute;
+	top:100px;
+	padding-left: 340px;
+	font-size: 50px;
+	line-height:75px;
+	z-index:50;
+	padding-top:100px;
+	padding-right:100px;
+	padding-bottom: 10px;
+	font-weight: lighter;
+
+
+	
+}
+.explore-btn {
+	display: inline;
+	background-color: rgb(210, 35, 65);
+	left:550px;
+	position:absolute;
+	margin-top:-350px;
+	z-index:50;
+	font-size: 22px;
+	
+	padding:20px 30px 20px 30px;
+	letter-spacing: 0.1rem;
+	
+}
+#space{
+	padding-right:15px;
+	padding-left:0px;
+}
+
+.howwhatwhen {
+	display: inline;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+p.howwhatwhen {
+
+}
+#row{
+
+	margin-left: auto;
+	margin-right: auto;
+	color:rgb(51, 51, 51);
+	
+	
+
+}
+.image{
+	position:relative;
+	text-align: center;
+	top:40px;
+	left:-120px;
+	
+	}
+.diffrent{
+	position:absolute;
+	top:40px;
+	left:950px;
+	float: right;
+	font-size: 30px;
+	text-align: left;
+	line-height: 45px;
+	font-weight: lighter;
+
+}
+.big-pic{
+	position:relative;
+	top:130px;
+	left:300px;
+	float: left;
+	font-size: 42px;
+	text-align: right;
+	font-weight: lighter;
+
+}
+.howwhatwhen{
+height:auto;
+width:auto;
+font-weight: lighter;
+
+}
+
+.ourservice {
+	
+	background-color: rgb(228, 228, 228);
+	margin-top: 100px;
+	height:533px;
+	text-align: center;
+	width: 100%;
+	line-height: 25px;
+	font-weight: lighter;
+
+}
+
+
+h3.ourservice, p.oursevice{
+	text-align: center;
+}
+
+h2.ourservice{
+	font-size: 30px;
+	line-height: 25px;
+	font-weight: lighter;
+}	
+p.ourservice {
+
+	font-size: 18px;
+	line-height: 30px
+}
+.webapps{
+	
+	position: absolute;
+	
+	top:1370px;
+	left:230px;
+	
+	}
+
+.mobile{
+	position: absolute;
+	top:1370px;
+	left:550px;
+	
+
+}
+.calender{
+	position: absolute;
+	top:1370px;
+	left:900px;
+	
+	
+
+}
+
+.serviceheading {
+	position:relative;
+	top: 30px;
+	font-size: 20px;
+	text-align: center;
+}
+#appleimage{
+	position: absolute;
+	top:1920px;
+	left:200px;
+
+}
+.narrable {
+	font-weight: lighter;
+
+}
+
+.explore-btn {
+	
+	background-color: rgb(210, 35, 65);
+	left:550px;
+	position:absolute;
+	margin-top:-350px;
+	z-index:50;
+	font-size: 22px;
+	font-weight:20;
+	padding:20px 30px 20px 30px;
+	letter-spacing: 0.1rem;
+	
+}
+h3 {
+	font-size: 20px;
+}	
+.ourworks {
+	height: 706px;
+}
+
+
+.narrable{
+	position: absolute;
+	top:1950;
+	right:250;
+	line-height: 25px;
+	font-weight: lighter ;
+
+
+}
+.heading {
+	font-size: 30px;
+	border-bottom: 5px ;
+	border-width: 1px;
+	border-color: rgb(0, 0, 0);
+	
+
+	
+}
+.narrable  h3 a:hover{
+	text-decoration: none;
+}
+
+.contactus{
+	height:700px;
+	background-image: url("/home/multunus-dev/multunus/images/map.png");
+	z-index:40;
+}
+.seeall-btn {
+	
+	background-color: rgb(189, 31, 58);
+	
+	position:absolute;
+	color: white;	
+	top:250px;
+	font-size: 22px;
+	font-weight:20;
+	padding:20px 30px 20px 30px;
+	letter-spacing: 0.1rem;
+	
+}
+.seeall-btn a:link, .seeallbtn a:visited{
+	color: white;
+}
+
+.seeall-btn a:hover{
+	text-decoration: none;
+	color: black;	
+}
+.ourclients{
+	background:white url("/home/multunus-dev/multunus/images/back.png") repeat-x top left;
+	z-index:70;
+	padding: 270px;
+	margin-bottom: -30px;
+
+	 
+}
+
+.submit-btn {
+	
+	background-color: #d22341;
+	color: white;	
+	width:120px;
+	height:23px;
+	font-size: 22px;
+	margin-top: 10px;
+	padding:10px 10px 35px 10px;*/
+	letter-spacing: 0.1rem;
+	vertical-align: text-bottom;
+	border-radius:2;
+	border-spacing: 0px;
+	border-width: 0px;
+	cursor: pointer;
+	
+}
+.submit-btn a:link, .submit-btn a:visited{
+	color: white;
+}
+
+.submit-btn a:hover{
+	text-decoration: none;
+	color: black;	
+}
+.formelem {
+	
+	font-weight: normal;
+	margin-top: 30px;
+	
+}
+.formbox {
+	width:410px;
+	height:600px;
+	position: relative;
+	top: 70px;
+	left:50px;
+	padding-left: 30px;
+	background-color: white;	
+	margin-left: 170px;
+	border-radius: 10;
+	font-size: 10px;
+	
+}
+
+
+input ,textarea{
+	height: 30px;
+	 font-size:15px;
+	 border-radius: 5;
+	 border-spacing: 0px;
+	border-width: 1px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+
+textarea{
+	min-height: 150px;
+}
+span.elements{
+	color:  #333;
+
+}
+
+.elements{
+	
+	padding-bottom:10px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 10px;
+
+}
+
+
+
+
+
+
